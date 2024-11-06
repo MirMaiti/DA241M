@@ -10,5 +10,6 @@ Experimental results show that the agent learns to perform significantly well. I
 ![image](https://github.com/user-attachments/assets/5cd0566f-9519-4b80-b428-d5d1b059ee32)
 
 ## LunarLander-v3
-![image](https://github.com/user-attachments/assets/a5515664-d3d4-4f8a-a49f-c371ccbe6795)
+![image](https://github.com/user-attachments/assets/ff54e2ea-4ce8-4308-898f-c5d038d5fb03)
+
 
